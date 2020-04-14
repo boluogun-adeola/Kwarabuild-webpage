@@ -1,0 +1,93 @@
+*{
+    margin: 0 0;
+    padding: 0 0;
+}
+header{
+    position: relative;
+    height:100px;
+    width:100px;
+    
+
+}
+ #navigate{
+    height:20px;
+    width: 30px;
+    margin-left: 50px;
+    margin-top: 60px;
+    float: left;
+}
+ #logo{
+    height: 40px;
+    margin-left: 140px;
+    margin-top:-20px;
+}
+
+
+.button{
+    border-radius: 15px;
+    border: none;
+    position:absolute;
+    background-color: #ff5353;
+    color:#fff;
+    height: 30px;
+    width:100px;
+    margin-left: 1000px;
+    margin-top:-40px;
+    display: inline-block;
+
+}
+main{
+    background:#0030b8 url("http://bit.ly/kwtm-bg");
+    height:1000px;
+    background-blend-mode: overlay; 
+}
+ #community{
+    text-align: center;
+    color: #ffff;
+    font-size:40px;
+    font-family:corbel;
+    margin-top: 40px;
+    padding-top: 200px;
+}
+p{
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+.container{
+    margin: 2px auto;
+    width:80%;
+    position: relative;
+}
+.box{
+    border: 1px solid white;
+    border-radius: 20px;
+    width: 15%;
+    font-family: corbel;
+   min-height: 150px;
+    text-align: center;
+    margin:30px;
+    margin-top: 70px;
+    float: left;
+    Padding: 20px;
+}
+.box-btn{
+   border-radius: 15px;
+    margin-top: 50px;
+    font-family: corbel;
+    background-color:#ff5353;
+    border: none;
+    height: 25px;
+     width: 10em;
+    position:relative;
+    
+    
+
+
+}
+.content{
+    font-size: 10px;
+    margin-top: 10px
+}
